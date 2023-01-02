@@ -1,7 +1,7 @@
 # Full_Examen_XML_Webservice 
 Controle_enset_xml_webService : ce dossier concerne la première question : Question A . <br /> 
-Examen_XML_WebService         : ce dossier cocerne  la deuxième question : Question B . <br />
-WebServiceClient              : ce dossier cocerne  la deuxième question : Question C . 
+Examen_XML_WebService         : ce dossier cocerne  la deuxième question : Question B et C. <br />
+WebServiceClient              : ce dossier cocerne  la deuxième question : Partie Client . 
 
 Vueillez trouver ci-joint les captures d'écrans du projet : 
 
