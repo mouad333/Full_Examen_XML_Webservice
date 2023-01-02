@@ -1,6 +1,6 @@
 # Full_Examen_XML_Webservice 
-Controle_enset_xml_webService : ce dossier concerne la première question : Question A .
-Examen_XML_WebService         : ce dossier cocerne  la deuxième question : Question B .
+Controle_enset_xml_webService : ce dossier concerne la première question : Question A . \n
+Examen_XML_WebService         : ce dossier cocerne  la deuxième question : Question B . \n
 WebServiceClient              : ce dossier cocerne  la deuxième question : Question C .
 
 Vueillez trouver ci-joint les captures d'écrans du projet : 
@@ -25,3 +25,4 @@ Vueillez trouver ci-joint les captures d'écrans du projet :
 
 ![test_soap](https://user-images.githubusercontent.com/55987003/210275893-5a6f4292-f177-4802-ae8a-08f5f578b7de.PNG)
 
+![Client_Soap](https://user-images.githubusercontent.com/55987003/210276070-c65280b1-76dd-4579-b279-d868a1981548.PNG)
